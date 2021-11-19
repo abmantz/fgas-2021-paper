@@ -1,6 +1,6 @@
 # fgas-2021-paper
 
-Data underlying figures and tables in [this paper]().
+Data underlying figures and tables in [this paper](https://arxiv.org/abs/2111.09343).
 
 Note that our cosmological analysis can **not** be reproduced solely from these data; this repository contains only what is directly shown in figures and tables, and nothing else.
 You can find the necessary code and data to reproduce the analysis itself [here](https://github.com/abmantz/fgas-cosmo).
